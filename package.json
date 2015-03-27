@@ -20,14 +20,17 @@
     "Lorem Ipsum",
     "lipsum",
     "lipsum-tag",
-    "tag"
+    "tag-lipsum",
+    "tag",
+    "lorem"
   ],
   "Keywords": [
     "Lorem Ipsum",
     "lipsum",
     "lipsum-tag",
     "tag-lipsum",
-    "tag"
+    "tag",
+    "lorem"
   ],
   "devDependencies": {
     "chalk": "^0.4.0",
