@@ -1,0 +1,38 @@
+{
+  "version": "1.0.0",
+  "name": "tag-lipsum",
+  "private": false,
+  "license": "GNU",
+  "description": "Convert your ipsum tag to the Lorem Ipsum content",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anisabid/tag-lipsum"
+  },
+  "author": "Anis ABID <anab.tn@gmail.com>",
+  "contributors": [],
+  "directories": {
+    "lib": "lib"
+  },
+  "bin": {
+    "lipsum": "./lib/tag-lipsum.js"
+  },
+  "tags": [
+    "Lorem Ipsum",
+    "lipsum",
+    "lipsum-tag",
+    "tag"
+  ],
+  "Keywords": [
+    "Lorem Ipsum",
+    "lipsum",
+    "lipsum-tag",
+    "tag"
+  ],
+  "devDependencies": {
+    "chalk": "^0.4.0",
+    "lodash": "~2.4.1",
+    "q": "~1.0.0",
+    "request": "~2.42.0"
+  },
+  "scripts": {}
+}
