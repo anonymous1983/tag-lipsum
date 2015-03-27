@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>Test</title>
+</head>
+<body>
+<h1>titre</h1>
+
+<h2>Ipsum 1</h2>
+
+<ipsum></ipsum>
+<h2>Ipsum 2</h2>
+<ipsum data-options="1w"></ipsum>
+
+<h2>Ipsum 3</h2>
+
+<ipsum data-options="2s"></ipsum>
+</body>
+</html>
