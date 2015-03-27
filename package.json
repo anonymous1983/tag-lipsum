@@ -6,7 +6,7 @@
   "description": "Convert your ipsum tag to the Lorem Ipsum content",
   "repository": {
     "type": "git",
-    "url": "https://github.com/anisabid/tag-lipsum"
+    "url": "http://github.com/anisabid/tag-lipsum"
   },
   "author": "Anis ABID <anab.tn@gmail.com>",
   "contributors": [],
@@ -14,7 +14,7 @@
     "lib": "lib"
   },
   "bin": {
-    "lipsum": "./lib/tag-lipsum.js"
+    "tag-lipsum": "./lib/tag-lipsum.js"
   },
   "tags": [
     "Lorem Ipsum",
@@ -26,6 +26,7 @@
     "Lorem Ipsum",
     "lipsum",
     "lipsum-tag",
+    "tag-lipsum",
     "tag"
   ],
   "devDependencies": {
